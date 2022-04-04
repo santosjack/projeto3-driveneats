@@ -53,7 +53,7 @@ function selectFood(op){
   } else {
     selectedFood = null;
   }
-  console.log(selectedFood.querySelector(".title").innerHTML);
+  
   activateButton();
 }
 
